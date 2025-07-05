@@ -227,4 +227,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note:** This project demonstrates end-to-end data science workflow from data cleaning to business recommendations, making it ideal for portfolio projects and real-world applications in customer analytics. 
+**Note:** This project demonstrates end-to-end data science workflow from data cleaning to business recommendations, making it ideal for portfolio projects and real-world applications in customer analytics.
